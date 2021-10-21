@@ -1,10 +1,10 @@
-# First Order Motion Model for Image Animation
+# FaceSwap
 
 
 ```
 @InProceedings{
   author={Rahul Singh},
-  title={First Order Motion Model for Image Animation},
+  title={FaceSwap},
   month = {October},
   year = {2021}
 }
