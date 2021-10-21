@@ -163,11 +163,10 @@ We recommend the later, for each video make a separate folder with all the frame
 Citation:
 
 ```
-@InProceedings{Siarohin_2019_NeurIPS,
-  author={Siarohin, Aliaksandr and Lathuilière, Stéphane and Tulyakov, Sergey and Ricci, Elisa and Sebe, Nicu},
+@InProceedings{
+  author={Rahul Singh},
   title={First Order Motion Model for Image Animation},
-  booktitle = {Conference on Neural Information Processing Systems (NeurIPS)},
-  month = {December},
-  year = {2019}
+  month = {October},
+  year = {2021}
 }
 ```
